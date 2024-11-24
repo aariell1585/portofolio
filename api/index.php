@@ -1,2 +1,2 @@
 <?php
-require __DIR__ . '/file.php';
+require __DIR__ . '/public/index.php';
